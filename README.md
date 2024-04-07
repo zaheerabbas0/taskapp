@@ -22,3 +22,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+<<<<<<< HEAD
+=======
+# taskapp
+>>>>>>> 343ef5219d3db6d0b38ce1119968fd6bfc397150
